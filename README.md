@@ -14,4 +14,4 @@
  今後はFFTなどを用いて、ピッチ変更を行えるようにしたい。
 
 # LICENCE 
-[MIT](https://github.com/T1210Taichi/Voice-Effects/blob/master/LICENSE)
+[MIT License](https://github.com/T1210Taichi/Voice-Effects/blob/master/LICENSE)
